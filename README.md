@@ -1,4 +1,4 @@
-# Void One Block
+<h1 align="center">Void One Block</h1>
 
 **A minimalist, mod-compatible one-block-void world type for Forge 1.16.5.**
 
@@ -6,15 +6,9 @@ Start with nothing but a single block beneath your feet — and everything else 
 
 ***
 
-## What is this?
+<p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/void-1-block">Download on CurseForge</a> · <a href="https://discord.com/invite/mUGHmQxHG8">Discord</a> · <a href="https://github.com/DKLYNTLY/Void-One-Block">GitHub source</a></p>
 
-Void One Block adds a brand-new **world type** to Minecraft. Instead of generating normal terrain, it strips everything away and leaves you standing on exactly one block, floating in the void. From there, it's your job to survive and expand — while biome identity still works exactly as it should, so modded biomes and biome-aware systems behave normally even though there's no terrain to look at.
-
-No mountains. No oceans. No forests. No structures to stumble into. Just you, one block, and whatever you build from there.
-
-***
-
-## Key Features
+## What you can do
 
 ### 🧱 True One-Block Start
 
@@ -53,9 +47,43 @@ End gateways get a small safety platform automatically, so stepping through one 
 
 World generation settings are marked stable, so you won't get the "This world uses experimental settings" pop-up when creating a Void One Block world.
 
-***
+<details>
+<summary><strong>Install, update, and check compatibility</strong></summary>
 
-## Configuration Options
+### Getting Started
+
+1.  Install the mod (and optionally Random Item Generator Resurrected).
+2.  Create a new world.
+3.  Select the **Void One Block** world type.
+4.  Fall into the void, land on your block, and start surviving.
+
+_Built for Forge 1.16.5._
+
+</details>
+
+<details>
+<summary><strong>Play: controls, commands, and progression</strong></summary>
+
+### What is this
+
+Void One Block adds a brand-new **world type** to Minecraft. Instead of generating normal terrain, it strips everything away and leaves you standing on exactly one block, floating in the void. From there, it's your job to survive and expand — while biome identity still works exactly as it should, so modded biomes and biome-aware systems behave normally even though there's no terrain to look at.
+
+No mountains. No oceans. No forests. No structures to stumble into. Just you, one block, and whatever you build from there.
+
+---
+
+### Recommended Pairing
+
+Void One Block is designed to work great on its own, but it shines alongside **Random Item Generator Resurrected** — your starting block becomes a mystery item source, turning the classic "one block" survival challenge into a proper progression loop.
+
+_(Random Item Generator Resurrected is an optional dependency — Void One Block works fine without it.)_
+
+</details>
+
+<details>
+<summary><strong>Configure and customize</strong></summary>
+
+### Configuration Options
 
 | Option             |Default                                      |Description                                                                                                                        |
 | ------------------ |-------------------------------------------- |---------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,23 +93,34 @@ World generation settings are marked stable, so you won't get the "This world us
 
 > Structure generation is always disabled in every void dimension — this is no longer a configurable option.
 
-***
+</details>
 
-## Recommended Pairing
+<details>
+<summary><strong>Backups and recovery</strong></summary>
 
-Void One Block is designed to work great on its own, but it shines alongside **Random Item Generator Resurrected** — your starting block becomes a mystery item source, turning the classic "one block" survival challenge into a proper progression loop.
+### Before updating
 
-_(Random Item Generator Resurrected is an optional dependency — Void One Block works fine without it.)_
+*Back up your world and configuration files before updating or changing settings. Keep a working copy of the old instance until you have checked the new setup.*
 
-***
+</details>
 
-## Getting Started
+<details>
+<summary><strong>About this project</strong></summary>
 
-1.  Install the mod (and optionally Random Item Generator Resurrected).
-2.  Create a new world.
-3.  Select the **Void One Block** world type.
-4.  Fall into the void, land on your block, and start surviving.
+### Author and links
 
-***
+I create and maintain Void One Block as **Dnydd (formerly known as dklyntly)**.
 
-_Built for Forge 1.16.5._
+[Official CurseForge page](https://www.curseforge.com/minecraft/mc-mods/void-1-block) · [Discord](https://discord.com/invite/mUGHmQxHG8)
+
+### License
+
+Read [LICENSE](LICENSE) for this branch’s terms. Permissions granted with earlier releases remain in effect.
+
+</details>
+
+## Support my work
+
+If you enjoy my projects, you can leave a tip on Ko-fi. Support is always optional.
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A3G129JCLF)
